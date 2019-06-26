@@ -10,7 +10,7 @@ import googlemaps
 import json
 import geopy.distance
 #tsl_test
-from tsp_solver.greedy import solve_tsp
+from tsp_solver.greedy import solve_tsp # require solve_tsp2
 import pickle
 
 
